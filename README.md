@@ -1,6 +1,6 @@
 # Customer Segmentation
 
-![enter image description here](https://thumbs.dreamstime.com/z/customer-segmentation-segregation-25686957.jpg)
+![enter image description here](https://www.bluetext.com/wp-content/uploads/2018/10/audience-segmentation-push-notifications.png)
 
 
 ### What is Customer Segmentation?
