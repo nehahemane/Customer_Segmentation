@@ -1,6 +1,6 @@
 # Customer Segmentation
 
-![enter image description here](https://www.itagroup.com/sites/default/files/2019-09/The-Key-to-Successful-Segmentations.jpg)
+![enter image description here](https://thumbs.dreamstime.com/z/customer-segmentation-segregation-25686957.jpg)
 
 
 ### What is Customer Segmentation?
