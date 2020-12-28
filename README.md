@@ -56,3 +56,14 @@ Typical information-gathering methods include:
 Common characteristics in customer segments can guide how a company markets to individual segments and what products or services it promotes to them. A small business selling hand-made guitars, for example, might decide to promote lower-priced products to younger guitarists and higher-priced premium guitars to older musicians based on segment knowledge that tells them that younger musicians have less disposable income than their older counterparts. Similarly, a meals-by-mail service might emphasize convenience to millennial customers and “tastes-like-mother-used-to-make” benefits to baby boomers.
 
 Customer segmentation can be practiced by all businesses regardless of size or industry and whether they sell online or in person. It begins with gathering and analyzing data and ends with acting on the information gathered in a way that is appropriate and effective.
+
+
+#### Objective
+
+This assignment demonstrates the concept of segmentation of a customer dataset from an e-commerce site using K-means-clustering in python. I will use the K-means and the hierarchical clustering algorithms to derive the optimum number of clusters and understand the underlying customer segments based on the data provided.
+
+#### About the dataset
+
+The dataset consists of Annual income (in $ 000) and their annual spend (in $ 000) on an e-commerce site for a period of one year. Let us explore the data using numpy and pandas libraries in python.
+
+-   [Link for the Jupyter notebook](https://github.com/nehahemane/Customer_Segmentation/blob/main/Customer_Segmentation.ipynb)
