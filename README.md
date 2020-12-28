@@ -1,6 +1,6 @@
 # Customer Segmentation
 
-![enter image description here](https://www.bluetext.com/wp-content/uploads/2018/10/audience-segmentation-push-notifications.png)
+![enter image description here](https://www.realviewdigital.com/wp-content/uploads/2016/11/audiencesegmentation.png)
 
 
 ### What is Customer Segmentation?
